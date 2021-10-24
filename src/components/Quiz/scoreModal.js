@@ -37,4 +37,4 @@ const ScoreModal = ({showModal, score, totalCount}) => {
   );
 }
 
-export default ScoreModal;
+export default ScoreModal; 
